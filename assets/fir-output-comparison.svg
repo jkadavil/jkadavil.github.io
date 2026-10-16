@@ -757,7 +757,7 @@ L 776.16 363.312
    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #dde6ee" x="71.28" y="19.749656" transform="rotate(-0 71.28 19.749656)">FIR output matches the reference across all 80 samples</text>
   </g>
   <g id="text_24">
-   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9baabc" x="71.28" y="39.672" transform="rotate(-0 71.28 39.672)">Icarus Verilog • 32 taps • directed 300 ns stall + randomized backpressure</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9baabc" x="71.28" y="39.672" transform="rotate(-0 71.28 39.672)">Vivado XSim • 32 taps • directed 300 ns stall + randomized backpressure</text>
   </g>
  </g>
  <defs>
